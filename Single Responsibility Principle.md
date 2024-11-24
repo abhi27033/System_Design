@@ -1,4 +1,4 @@
-The single responsibilty principle states that every class must have a single, focused responsibility, a single reason to change.
+**The single responsibilty principle states that every class must have a single, focused responsibility, a single reason to change.**
 
 ```java
 public class Employee{
@@ -7,11 +7,11 @@ public class Employee{
   public void sendMail(){ // }
 }
 ```
-**In the above example, the Employee class has a few employee class-specific behaviors like getDesignation & updateSalary.**
+In the above example, the Employee class has a few employee class-specific behaviors like getDesignation & updateSalary.
 
-**Additionally, it also has another method named sendMail which deviates from the responsibility of the Employee class.**
+Additionally, it also has another method named sendMail which deviates from the responsibility of the Employee class.
 
-This behavior is not specific to this class, and having it violates the single responsibility principle. To overcome this, you can move the sendMail method to a separate class.
+**This behavior is not specific to this class, and having it violates the single responsibility principle. To overcome this, you can move the sendMail method to a separate class.**
 
 Here's how:
 
