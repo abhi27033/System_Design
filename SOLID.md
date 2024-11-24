@@ -2,12 +2,11 @@ SOLID principles are a set of five design principles used in object-oriented pro
 
 SOLID is an acronym that stands for:
 
-**
-- Single Responsibility Principle
-- Open/Closed Principle
-- Liskov Substitution Principle
-- Interface Segregation Principle
-- Dependency Inversion Principle
-**
+- **Single Responsibility Principle**
+- **Open/Closed Principle**
+- **Liskov Substitution Principle**
+- **Interface Segregation Principle**
+- **Dependency Inversion Principle**
 
+**More Details....**
 <a name = "More Details...">https://www.freecodecamp.org/news/introduction-to-solid-principles/</a>
