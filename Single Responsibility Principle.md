@@ -2,9 +2,12 @@
 
 ```java
 public class Employee{
-  public String getDesignation(int employeeID){ // }
-  public void updateSalary(int employeeID){ // }
-  public void sendMail(){ // }
+  public String getDesignation(int employeeID){ // 
+  }
+  public void updateSalary(int employeeID){ // 
+  }
+  public void sendMail(){ // 
+  }
 }
 ```
 In the above example, the Employee class has a few employee class-specific behaviors like getDesignation & updateSalary.
@@ -17,11 +20,14 @@ Here's how:
 
 ```java
 public class Employee{
-  public String getDesignation(int employeeID){ // }
-  public void updateSalary(int employeeID){ // }
+  public String getDesignation(int employeeID){ // 
+  }
+  public void updateSalary(int employeeID){ // 
+  }
 }
 
 public class NotificationService {
-    public void sendMail() { // }
+    public void sendMail() { // 
+    }
 }
 ```
