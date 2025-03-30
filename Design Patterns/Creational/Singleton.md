@@ -93,7 +93,7 @@ class ThreadSafeSingleton {
 
 * The **synchronization** keyword ensures that only one thread can perform the (`instance == null)` check and create the object.
 
-If calling the `getInstance()<span> </span>`method isn’t causing substantial overhead, this approach is straightforward and effective.
+If calling the `getInstance()` method isn't causing substantial overhead, this approach is straightforward and effective.
 
 But, using `synchronized` can decrease performance, which can be a bottleneck if called frequently.
 
@@ -167,7 +167,7 @@ While it is inherently thread-safe, it could potentially waste resources if the 
 
 # 5. Bill Pugh Singleton
 
-This implementation uses a static inner helper class to hold the singleton instance. The inner class is not loaded into memory until it's referenced for the first time in the `getInstance()<span> </span>`method.
+This implementation uses a static inner helper class to hold the singleton instance. The inner class is not loaded into memory until it's referenced for the first time in the `getInstance()`method.
 
 It is thread-safe without requiring explicit synchronization.
 
