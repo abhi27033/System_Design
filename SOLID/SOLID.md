@@ -2,7 +2,7 @@ SOLID principles are a set of five design principles used in object-oriented pro
 
 SOLID is an acronym that stands for:
 
-- **Single Responsibility Principle**
+- [**Single Responsibility Principle**](Single Responsibility Principle.md)
 - **Open/Closed Principle**
 - **Liskov Substitution Principle**
 - **Interface Segregation Principle**
