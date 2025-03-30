@@ -6,3 +6,5 @@ This Repository would contain all my notes, understandings and resources for Sys
 [DRY Principle](DRY/DRY.md)
 
 [YAGNI Priciple](YAGNI/YAGNI.md)
+
+[KISS Principle](KISS/KISS.md)
