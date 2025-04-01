@@ -21,6 +21,10 @@ Structural
 
 1. [Facade](/Design%20Patterns/Structural/Facade.md)
 
+Behavioural
+
+1. [Observer](/Design%20Patterns/Behavioural/Observer.md)
+
 ## Design Questions
 
 1. [Parking Lot System](/Design_Questions/Parking_Lot_System)
