@@ -29,3 +29,4 @@ Behavioural
 
 1. [Parking Lot System](/Design_Questions/Parking_Lot_System)
 2. [Snake & Ladder Game](/Design_Questions/Snake_And_Ladder)
+3. [Amazon Interview LLD BookStore](/Design_Questions/Amazon_Design_BookStore_CPP)
